@@ -6,8 +6,7 @@ sap.ui.define(
         return Component.extend("project2.Component", {
             metadata: {
                 manifest: "json"
-                //commit1 commi2
-                //commoit2
+                //commit1
             }
         });
     }
